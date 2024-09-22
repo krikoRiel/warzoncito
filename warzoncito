@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sacá Cod!</title>
+    <style>
+        cuerpo {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .titulo {
+            font-size: 36px;
+            color: #007bff;
+        }
+        
+        .boton {
+            padding: 10px 20px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: #ffffff;
+            cursor: pointer;
+        }
+        
+        .boton:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<cuerpo>
+    <h1 class="titulo">¡saken warzone perros!</h1>
+    <p>levanten su culo gordoooooo</p>
+    <button class="boton">¡puto si no le picas!</button>
+</cuerpo>
+</html>
